@@ -1,0 +1,11 @@
+# Python cache and byte-code files
+__pycache__/
+*.pyc
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Generated images and test cache
+*.png
+.pytest_cache/
