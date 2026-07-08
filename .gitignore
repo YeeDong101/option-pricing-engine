@@ -6,5 +6,5 @@ __pycache__/
 .vscode/
 .idea/
 
-# Generated images and test cache
+# test cache
 .pytest_cache/
