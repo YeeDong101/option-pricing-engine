@@ -1,4 +1,3 @@
-# pricing/monte_carlo.py
 import numpy as np
 from pricing.base import PricingEngine, Option
 
